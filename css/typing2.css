@@ -9,11 +9,12 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    overflow: hidden;
 }
 
 .header {
     width: 100%;
-    background-color: #3b5999;
+    background-color: #434F59;
     color: #fff;
     text-align: center;
     padding: 1rem;
@@ -22,7 +23,7 @@ body {
 .word-display {
     margin-top: 3rem;
     font-size: 80px;
-    color: #3b5999;
+    color: #1B418C;
 }
 
 .word-input-box {
@@ -48,8 +49,8 @@ body {
 
 .button {
     width: 250px;
-    height: 35px;
-    background-color: #3b5999;
+    height: 36px;
+    background-color: #060A0D;
     color: #fff;
     border: none;
     margin-top: 3rem;

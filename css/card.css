@@ -13,13 +13,13 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: #6563FF;
+    background: ivory;
 }
 
 .wrapper {
     padding: 25px;
     border-radius: 10px;
-    background: #F8F8F8;
+    background: #fff;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
 }
 

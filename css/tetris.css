@@ -10,6 +10,7 @@ ul {
 body {
     height: 100%;
     overflow: hidden;
+    background-color: #000;
 }
 
 
@@ -34,6 +35,8 @@ body {
 
 .bg-video video {
     width: 100%;
+    height: 100%;
+
 }
 
 .outer {

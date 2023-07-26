@@ -11,28 +11,28 @@
 
 let allMusic = [
     {
-        name: "Down",
-        artist: "Marian Hill",
+        name: "Paradise",
+        artist: "Coldplay",
+        img: "music-1",
+        src: "music-1"
+    },
+    {
+        name: "Fix You",
+        artist: "Coldplay",
         img: "music-2",
         src: "music-2"
     },
     {
-        name: "Beautiful Mistakes",
-        artist: "Maroon 5",
+        name: "Hymn for the Weekend",
+        artist: "Coldplay",
+        img: "music-3",
+        src: "music-3"
+    },
+    {
+        name: "A Sky Full of Stars",
+        artist: "Coldplay",
         img: "music-4",
         src: "music-4"
-    },
-    {
-        name: "Whiskey and Morphine",
-        artist: "Alexander Jean",
-        img: "music-5",
-        src: "music-5"
-    },
-    {
-        name: "Sweatshirt",
-        artist: "X Lovers",
-        img: "music-7",
-        src: "music-7"
     },
     // like this paste it and remember to give comma after ending of this bracket }
     // {
